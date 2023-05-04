@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**r1zkyPrasetyo/r1zkyPrasetyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# HELLO I AM RIZKY PRASETYO  <a href="https://github.com/r1zkyPrasetyo?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
 - 🔭 I’m a Fullstack Web Developer
 - 🌱 Familiar with PHP Framework (Laravel) for 3 Year
