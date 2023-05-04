@@ -72,3 +72,4 @@ Blade                    11 repos            ██░░░░░░░░░�
 JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   11.46%
 
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1zkyPrasetyo&show_icons=true)
