@@ -1,4 +1,3 @@
-### Hi there 👋
 # HELLO I AM RIZKY PRASETYO  <a href="https://github.com/r1zkyPrasetyo?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
 - 🔭 I’m a Fullstack Web Developer
