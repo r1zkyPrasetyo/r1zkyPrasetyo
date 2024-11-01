@@ -1,6 +1,6 @@
 # HELLO I AM RIZKY PRASETYO  <a href="https://github.com/r1zkyPrasetyo?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
 
-- 🔭 I’m a Fullstack Web Developer
+- 🔭 I’m a Backend Developer
 - 🌱 Familiar with PHP Framework (Laravel) for 3 Year
 - 📂 Im Open for freelance/project job!
 - 🧷 See my portfolios here: [https://rizkyprasetyo.web.id/](https://rizkyprasetyo.web.id/)
