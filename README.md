@@ -3,7 +3,7 @@
 - 🔭 I’m a Fullstack Web Developer
 - 🌱 Familiar with PHP Framework (Laravel) for 3 Year
 - 📂 Im Open for freelance/project job!
-- 🧷 See my portfolios here: [https://logicstudio.id/](https://rizkyprasetyo.web.id/)
+- 🧷 See my portfolios here: [https://rizkyprasetyo.web.id/](https://rizkyprasetyo.web.id/)
 - 📫 How to reach me: emailrizkyprasetyo@gmail.com or 6283843641070
 
 <!--START_SECTION:waka-->
