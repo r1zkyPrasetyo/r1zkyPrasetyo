@@ -28,39 +28,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://rizkyprasetyo.web.id)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rprasetyo10)
 
-**🐱 Dataku di GitHub** 
-
-> 🏆 1,490 Kontribusi pada 2022
- > 
-> 📦 4.8 MB Digunakan di GitHub Storage 
- > 
-> 🚫 Tidak sedang bisa dipekerjakan
- > 
-> 📜 133 Repositori publik 
- > 
-> 🔑 104 Repositori pribadi  
- > 
-**Aku orangnya diurnal 🐤** 
 
 ```text
 ⌚︎ Zona waktu: Asia/Jakarta
-
-💬 Bahasa: 
-PHP                      11 hrs 56 mins      █████████████░░░░░░░░░░░░   53.68% 
-Blade Template           9 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.78% 
-Other                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
-
-🔥 Editor: 
-VS Code                  22 hrs 14 mins      █████████████████████████   100.0%
-
-🐱‍💻 Proyek: 
-
-
-💻 Sistem Operasi: 
-Mac                      22 hrs 14 mins      █████████████████████████   100.0%
-
 ```
 
 **Kebanyakan menulis dalam bahasa PHP** 
